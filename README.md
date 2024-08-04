@@ -22,6 +22,7 @@ General: `[1~57] [opt]`\
 README: `58`\
 Help: `59 [1~57]`\
 Exit: `60`
+### [Runtime](Runtime.md)
 ### TAPICT on Termux
 ```
 ​ _____                                   _    ____ ___
