@@ -2,7 +2,7 @@
 ## Author: wylerror
 Email: wylerror@outlook.com
 ### Application
-[Termux](https://github.com/termux/termux-app)\  
+[Termux](https://github.com/termux/termux-app)\
 [Termux:API](https://github.com/termux/termux-api)
 ### Package
 #### Termux:API
